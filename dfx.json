@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "canisters": {
+    "personal_vault_backend": {
+      "type": "rust",
+      "package": "personal_vault_backend",
+      "candid": "src/personal_vault_backend/personal_vault_backend.did"
+    }
+  },
+  "output_env_file": ".env"
+}

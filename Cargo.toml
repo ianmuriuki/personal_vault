@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"
+members = [
+    "src/personal_vault_backend",
+]
